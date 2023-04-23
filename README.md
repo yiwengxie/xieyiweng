@@ -1,5 +1,6 @@
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xieyiweng&show_icons=true&theme=vue-dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vue-dark)
 
 <!--
 **xieyiweng/xieyiweng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
