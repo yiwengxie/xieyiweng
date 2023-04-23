@@ -1,4 +1,6 @@
 ###
+☘️ studying at Fudan University
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xieyiweng&show_icons=true&theme=vue-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xieyiweng&theme=vue-dark&layout=compact)
