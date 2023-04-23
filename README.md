@@ -1,6 +1,10 @@
 
 <div align="center">
-  <font size='100'>☘️A student at Fudan University☘️</font>
+  <font size='100'>
+  <br>👋Hi there, I'm xieyiweng</br>
+  <br>☘️A student at Fudan University</br>
+  <br></br>
+  </font>
   
   <!-- dynamic typing effect 动态打字效果 -->
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F797&center=true&vCenter=true&width=435&lines=Good+good+study%2C+day+day+up+!;啥也不会，啥都想学)
