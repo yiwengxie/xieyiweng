@@ -3,10 +3,7 @@
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);啥也不会，啥都想学。&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B8349&width=435&lines=Good+good+study%2C+day+day+up+!;%E5%95%A5%E9%83%BD%E4%B8%8D%E4%BC%9A%EF%BC%8C%E5%95%A5%E9%83%BD%E6%83%B3%E5%AD%A6%E3%80%82)](https://git.io/typing-svg)
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
