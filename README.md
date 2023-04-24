@@ -10,8 +10,10 @@
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://github.com/xieyiweng/xieyiweng/blob/main/asset/coding1.gif" />
   
+  <!-- 暂时不想用
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xieyiweng&show_icons=true&theme=vue-dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xieyiweng&theme=vue-dark&layout=compact)
+  -->
   
  </div>
 
